@@ -4,6 +4,15 @@ A simple and beginner-friendly web app to check the strength of your password, b
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [Click here to try the app])
+
+> _([https://your-streamlit-deploy-link.streamlit.app]([https://personallibrarymanager-bersdh3wplcyoakupmkktf.streamlit.app/](https://bank-accountp-nrsmbm3x4ht68tmsxu3bih.streamlit.app/))_
+
+---
+
+
 ## 📌 Features
 
 - ✅ **Minimum Length** – 8+ characters  
@@ -31,12 +40,12 @@ If your password is weak, helpful suggestions will guide you to improve it. 💬
 ---
 
 ## 📸 Screenshot
-![Uploading image.png…]()
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7ccff161-bbcf-443e-9751-0b6a5f209165)
 
 
-> *(Add a screenshot of your app here)*
+![image](https://github.com/user-attachments/assets/5c83dee3-f17f-4686-970c-ed1dde066f89)
+
 
 ---
 
